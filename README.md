@@ -88,7 +88,6 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 #### OBSERVATION 1
 ![Observaion 1](https://user-images.githubusercontent.com/33054425/57029952-67c96e00-6c6d-11e9-819b-a93260e94e3d.jpg)
 
-- **Transfer Page** (when make squad and make transfer)
 - **Reference** : Conversation 1 num. 10
 - **Feedback** : Maybe add the colour around the field image, and change the design of grass of the field
 - **Incidence** : The page is colourless, and the design of field is less-interest (Conversation 1 num. 10)
@@ -105,17 +104,13 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 - **Resolution** : Add button properties to player's icon
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Observation 3](https://user-images.githubusercontent.com/33054425/57031111-f55a8d00-6c70-11e9-87d0-eff0ea12fc85.jpg)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
+- **Reference** : Conversation 2 num. 20
+- **Feedback** : Back to old-system (design)
+- **Incidence** : -
+- **Reason** : Feature on real system doesn't exist
+- **Resolution** : Restore the old-system and design
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
