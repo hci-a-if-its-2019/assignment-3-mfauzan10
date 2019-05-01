@@ -4,11 +4,6 @@
 Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu.be
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
 > Describe your participants in bullets or sentences.
@@ -17,34 +12,49 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- User is a 19 years old Indonesian male
+- User never open the site
+- User has a lot of knowledge on football
+- User work at KPP Bea Cukai TMP Tanjung Mas
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+(same with Instruction Script in Assignment 1)
+- Find Fixtures/Results
+- Try to make a team and squads
+- Try to make a own-league
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+1.	F : Coba buka link prototype yang sudah kukirimkan
+2.	R : Oke, done. Terus ?
+3.	F : Nah, itu kan tampilan transfer. Itu sebagian sudah diubah sesuai hasil wawancara kemarin. Menurutmu apa saja yang berbeda dari tampilan aslinya ?
+4.	R : Yoi, bagian bawah gambar lapangan. Ada tombol Save team sama tabel yang isinya jadwal sama hasil pertandingan yang lalu-lalu.
+5.	F : Oke, kalau dibanding dengan desain yang asli, menurutmu lebih mudah mana memilih atau melakukan transfer pemain menggunakan desain yang sekarang ?
+6.	R : Kalau menurutku lebih mudah desain yang sekarang, soalnya tidak kesulitan mencari jadwal atau hasil pertandingan. Langsung ditampilkan di bawah gambar lapangan, tidak perlu mencari ke menu-menu web. Ini cukup memudahkan dalam menentukan pemilihan pemain. Ini terobosan yang bagus.
+7.	F : Oke, terus ada lagi ?
+8.	R : Ada, jika mengklik pemain, maka tabel pemain yang ada di samping kanan langsung berubah jadi daftar pemain sesuai dengan posisi yang kita klik. Misal kita klik pemain dengan posisi bek, maka tabel akan berisi pemain-pemain yang berposisi bek. Ini simpel dan memudahkan kita untuk memilih pemain sesuai posisi.
+9.	F : Ada masukan lagi mungkin untuk tampilannya ?
+10.	R : Kalau bisa di sekitar gambar lapangan diberi warna, jangan warna putih. Biar kelihatan berwarna.
+11.	F : Oke, selanjutnya coba cari menu My Team.
+12.	R : Oke, done
+13.	F : Menurutmu gimana tampilan My Team yang baru ?
+14.	R : Menurutku sudah bagus, ada tabel 'fixture' juga. Memudahkan kita dalam melakukan penggantian pemain
+15.	F : Ada masukan mungkin ?
+16.	R : Saya rasa tidak ada, sudah cukup bagus.
+17.	F : Oke, sekarang coba buat liga
+18.	R : Oke, wait
+19.	R : Sudah
+20.	F : Terus ada perbedaan tidak membuat liga antara desain yang asli dengan desain sekarang ?
+21.	R : Cuma di bagian fitur masukkan koin, waktu wawancara sebelumnya kan menurutku yang kurang perlu adalah membayar koin untuk membuat sebuah liga
+22.	F : Oke, kalau masalah tampilan sudah cukup ?
+23.	R : Kalau masalah tampilan sudah bagus, sudah cukup
+24.	F : Oke, makasih atas waktunya gan
+25.	R : Oke, sama-sama gan
+
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
