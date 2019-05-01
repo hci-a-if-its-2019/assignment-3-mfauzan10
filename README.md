@@ -88,21 +88,21 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 #### OBSERVATION 1
 ![Observaion 1](https://user-images.githubusercontent.com/33054425/57029952-67c96e00-6c6d-11e9-819b-a93260e94e3d.jpg)
 
-**Transfer Page** (when make squad and make transfer)
-**Reference** : Conversation 1 num. 10
-**Feedback** : Maybe add the colour around the field image, and change the design of grass of the field
-**Incidence** : The page is colourless, and the design of field is less-interest (Conversation 1 num. 10)
-**Reason** : Around the field image there is only white space (blank space)
-**Resolution** : Try to add the colour around the image field and wide blank space, and change the design of the field
+- **Transfer Page** (when make squad and make transfer)
+- **Reference** : Conversation 1 num. 10
+- **Feedback** : Maybe add the colour around the field image, and change the design of grass of the field
+- **Incidence** : The page is colourless, and the design of field is less-interest (Conversation 1 num. 10)
+- **Reason** : Around the field image there is only white space (blank space)
+- **Resolution** : Try to add the colour around the image field and wide blank space, and change the design of the field
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Observation 2](https://user-images.githubusercontent.com/33054425/57030415-c6dbb280-6c6e-11e9-9cbf-56423cdb6541.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+- **Reference** : Conversation 2 num. 7
+- **Feedback** : Add button properties to player's icon
+- **Incidence** : The player icon is confusing, so we hesitate when click the player's icon
+- **Reason** : There is no button properties (only image) on player's icon
+- **Resolution** : Add button properties to player's icon
  
 #### OBSERVATION 3
 ![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
