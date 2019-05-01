@@ -6,10 +6,6 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 ## Part A: Usability Evaluation
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
 - User is a 19 years old Indonesian male
