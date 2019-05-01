@@ -8,13 +8,17 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 ### 1. Brief Description of Participants
 
 #### a. Description of Participant 1
+(same with participant in Assignment 1)
 - User is a 19 years old Indonesian male
 - User never open the site
 - User has a lot of knowledge on football
 - User work at KPP Bea Cukai TMP Tanjung Mas
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- User is a 20 years old Indonesian male
+- User never open the site
+- User has a lot of knowledge on football and lack of knowledge about football fantasy game
+- User study at Informatics Department
 
 ### 2. Evaluation Script
 (same with Instruction Script in Assignment 1)
@@ -25,6 +29,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### 3. Transcript
 
 #### a. Transcript with Participant 1
+(this conversation has been translated to Indonesia language and consist of important parts)
 1.	F : Coba buka link prototype yang sudah kukirimkan
 2.	R : Oke, done. Terus ?
 3.	F : Nah, itu kan tampilan transfer. Itu sebagian sudah diubah sesuai hasil wawancara kemarin. Menurutmu apa saja yang berbeda dari tampilan aslinya ?
@@ -34,7 +39,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 7.	F : Oke, terus ada lagi ?
 8.	R : Ada, jika mengklik pemain, maka tabel pemain yang ada di samping kanan langsung berubah jadi daftar pemain sesuai dengan posisi yang kita klik. Misal kita klik pemain dengan posisi bek, maka tabel akan berisi pemain-pemain yang berposisi bek. Ini simpel dan memudahkan kita untuk memilih pemain sesuai posisi.
 9.	F : Ada masukan lagi mungkin untuk tampilannya ?
-10.	R : Kalau bisa di sekitar gambar lapangan diberi warna, jangan warna putih. Biar kelihatan berwarna.
+10.	R : Kalau bisa di sekitar gambar lapangan diberi warna, jangan warna putih. Biar kelihatan berwarna. Terus desain lapangannya juga dibuat dengan desain lain, misal rumput lapangan dibuat bundar. Intinya jangan monoton kotak
 11.	F : Oke, selanjutnya coba cari menu My Team.
 12.	R : Oke, done
 13.	F : Menurutmu gimana tampilan My Team yang baru ?
@@ -53,10 +58,29 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+(this conversation has been translated to Indonesia language and consist of important parts)
+1.	F : Coba buka link prototype yang kukirimkan
+2.	A : Done
+3.	F : Coba pilih squad dari prototype
+4.	A : Oke, tunggu-tunggu
+5.	A : Sudah bos
+6.	F : Gimana menurutmu ?
+7.	A : Secara garis besar memudahkan kita sebagai pengguna, tabel fixture juga ditampilkan di bawah gambar lapangan, jdi gk usah cari-cari dan buka halaman baru. Terus untuk klik pemain dan tabel pemain langsung menampilkan pemain dengan posisi yang kita klik tadi, sebaiknya ikon-ikon pemain dibuat mirip seperti button biar tidak ambigu.
+8.	F : Oke, untuk tampilannya gimana ?
+9.	A : Sudah cukup
+10.	F : Oke, sekarang lanjut. Coba cari menu myteam.
+11.	A : Done bos
+12.	F : Menurutmu gimana dengan tampilan my team nya ?
+13.	A : Sudah cukup
+14.	F : Siap, sekarang coba buat liga
+15.	A : Oke, tunggu
+16.	A : Sudah bos
+17.	F : Bagaimana menurutmu ?
+18.	A : Cukup mudah untuk membuat liga
+19.	F : Itu di sistem asli kan kalau buat liga suruh bayar 5 koin, nah di desain ku kan tidak ada. Menurutmu gimana ?
+20.	A : Seharusnya tidak usah dihilangkan, mungkin dengan adanya fitur bayar 5 koin itu pengguna tidak asal membuat liga baru. Supaya liganya banyak yang kompetitif dan seru.
+21.	F : Oke, terima kasih untuk waktunya
+22.	A : Sama-sama
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
