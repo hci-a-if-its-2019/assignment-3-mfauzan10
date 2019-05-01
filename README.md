@@ -88,17 +88,17 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 #### OBSERVATION 1
 ![Observaion 1](https://user-images.githubusercontent.com/33054425/57029952-67c96e00-6c6d-11e9-819b-a93260e94e3d.jpg)
 
-- **Reference** : Conversation 1 num. 10
-- **Feedback** : Maybe add the colour around the field image, and change the design of grass of the field
-- **Incidence** : The page is colourless, and the design of field is less-interest (Conversation 1 num. 10)
+- **Reference** : Transcript 1 num. 10
+- **Feedback** : Neutral (Giving Suggestion)
+- **Incidence** : Maybe the page is colourless, and the design of field is less-interest (Conversation 1 num. 10)
 - **Reason** : Around the field image there is only white space (blank space)
 - **Resolution** : Try to add the colour around the image field and wide blank space, and change the design of the field
  
 #### OBSERVATION 2
 ![Observation 2](https://user-images.githubusercontent.com/33054425/57030415-c6dbb280-6c6e-11e9-9cbf-56423cdb6541.jpg)
 
-- **Reference** : Conversation 2 num. 7
-- **Feedback** : Add button properties to player's icon
+- **Reference** : Transcript 2 num. 7
+- **Feedback** : Negative
 - **Incidence** : The player icon is confusing, so we hesitate when click the player's icon
 - **Reason** : There is no button properties (only image) on player's icon
 - **Resolution** : Add button properties to player's icon
@@ -106,15 +106,32 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 #### OBSERVATION 3
 ![Observation 3](https://user-images.githubusercontent.com/33054425/57031111-f55a8d00-6c70-11e9-87d0-eff0ea12fc85.jpg)
 
-- **Reference** : Conversation 2 num. 20
-- **Feedback** : Back to old-system (design)
+- **Reference** : Transcript 2 num. 20
+- **Feedback** : Negative
 - **Incidence** : -
 - **Reason** : Feature on real system doesn't exist
 - **Resolution** : Restore the old-system and design
 
+#### OBSERVATION 4
+![Initial_Transfer](https://user-images.githubusercontent.com/33054425/57040839-db2da880-6c8a-11e9-8441-483858025538.JPG)
+
+- **Reference** : Transcript 1 num. 6, Transcript 2 num. 7
+- **Feedback** : Positive, a good design with excellent feature. Make the users easy to find fixture/result details
+- **Incidence** : -
+- **Reason** : -
+- **Resolution** : -
+
+#### OBSERVATION 5
+![KeeperPlayerList_Page](https://user-images.githubusercontent.com/33054425/57041056-732b9200-6c8b-11e9-9a77-ce461f1aab48.JPG)
+(ex:while clicking player icon that located in GK position)
+
+- **Reference** : Transcript 1 num. 8
+- **Feedback** : Positive, new feature that make easily to search player on certain position. Nice one
+- **Incidence** : -
+- **Reason** : -
+- **Resolution** : -
+
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
@@ -124,9 +141,7 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 ![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+From usability evaluation, my/our design must make the user do the activities easily, and has clear function/goal. 
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+High Fidelity (Based on Negative Feedback) : https://invis.io/E9RT3OT6ZGR#/361046257_NewMyteamPage
