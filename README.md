@@ -134,11 +134,7 @@ Prototype Link Video : https://www.youtube.com/watch?v=lBVd1u6frFQ&feature=youtu
 ## Part B: Prototyping (again)
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
-
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![New Doc 2019-05-02 22 58 40_1](https://user-images.githubusercontent.com/33054425/57089416-99563e00-6d2e-11e9-9e11-ab3ae35d2565.jpg)
 
 ### Design Rationale
 From usability evaluation, my/our design must make the user do the activities easily, and has clear function/goal. 
